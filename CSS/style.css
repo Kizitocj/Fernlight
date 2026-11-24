@@ -26,8 +26,13 @@ body{
 }
 
 #shop-btn{
-    /* border-radius: 20px;
-    background-color: aqua; */
+    border-radius: 10px;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border: none;
+    color: white;
+
 }
 
 .first-section{
